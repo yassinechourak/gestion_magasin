@@ -1,4 +1,4 @@
-package com.magasin.gestion_magasin;
+package com.magasin.gestion_magasinfiles;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
